@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IPBSES Downloader</string>
+    <string name="connectToNet">Please connect to Internet first!</string>
+    <string name="startDL">Download is Starting...</string>
+</resources>

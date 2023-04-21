@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نرم افزار دانلود رزا مایند</string>
+    <string name="connectToNet">لطفاً در بادی امر به شبکه جهانی اینترنت منتصل گردید!</string>
+    <string name="startDL">آغاز فرآیند دانلود...</string>
+</resources>
